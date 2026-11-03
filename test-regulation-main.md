@@ -11,6 +11,10 @@
 
 This regulation establishes compliance obligations for employers handling employee personal data under the EU Data Act 2026. All organisations with more than **50 employees** operating within EU member states must comply by the effective date.
 
+## Employee Rights
+
+See [Annex C — Employee Rights and Data Access Procedures](https://raw.githubusercontent.com/siddalingappauppar/testrepo/main/test-regulation-annex-c.md) for full details on employee data rights.
+
 ## Key Obligations
 
 ### Article 3 — Data Retention
