@@ -7,7 +7,7 @@
 
 ## B.1 Annual Compliance Report
 
-All covered employers must submit an Annual Data Compliance Report by **31 March** of each year, covering the preceding calendar year.
+All covered employers must submit an Annual Data Compliance Report by **28 February** of each year, covering the preceding calendar year.
 
 The report must include:
 
@@ -22,7 +22,7 @@ The report must include:
 |---|---|
 | Internal detection | Immediately |
 | Supervisory authority notification | Within **72 hours** |
-| Affected employee notification | Within **7 days** |
+| Affected employee notification | Within **5 days** |
 | Full incident report submission | Within **30 days** |
 
 ## B.3 Employee Data Request Response Window
