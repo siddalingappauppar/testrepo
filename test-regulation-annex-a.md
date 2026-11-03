@@ -22,8 +22,8 @@ Approved data centres must hold at least one of the following certifications:
 Employers must maintain automated backups with the following parameters:
 
 - Backup frequency: at least every **24 hours**
-- Recovery Point Objective (RPO): maximum **4 hours**
-- Recovery Time Objective (RTO): maximum **8 hours**
+- Recovery Point Objective (RPO): maximum **2 hours**
+- Recovery Time Objective (RTO): maximum **4 hours**
 - Backup retention period: minimum **3 years**
 
 ## A.4 Access Controls
