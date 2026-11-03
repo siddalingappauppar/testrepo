@@ -36,5 +36,5 @@ Non-compliance penalties are calculated as follows:
 
 The following annexes form part of this regulation and must be read in conjunction with the main text:
 
-- [Annex A — Technical Standards for Data Storage and Security](https://raw.githubusercontent.com/siddalingappauppar/testrepo/main/test-regulation-annex-a.md)
+- [Annex A — Technical Standards for Data Storage and Security](https://raw.githubusercontent.com/siddalingappauppar/testrepo/main/test-regulation-annex-a-v2.md)
 - [Annex B — Reporting Deadlines and Filing Windows](https://raw.githubusercontent.com/siddalingappauppar/testrepo/main/test-regulation-annex-b.md)
