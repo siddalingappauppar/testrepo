@@ -40,5 +40,4 @@ Non-compliance penalties are calculated as follows:
 
 The following annexes form part of this regulation and must be read in conjunction with the main text. All annexes were updated in March 2026:
 
-- [Annex A (Revised March 2026) — Enhanced Security and Data Retention Standards](https://raw.githubusercontent.com/siddalingappauppar/testrepo/main/test-regulation-annex-a-v2.md)
 - [Annex B — Reporting Deadlines and Filing Windows](https://raw.githubusercontent.com/siddalingappauppar/testrepo/main/test-regulation-annex-b.md)
