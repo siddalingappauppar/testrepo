@@ -29,8 +29,8 @@ Employees are entitled to request access to their personal data at no cost, with
 
 Non-compliance penalties are calculated as follows:
 
-- Minor violations: up to **€50,000** or 1% of annual global turnover
-- Major violations: up to **€200,000** or 4% of annual global turnover
+- Minor violations: up to **€75,000** or 1% of annual global turnover
+- Major violations: up to **€300,000** or 4% of annual global turnover
 
 ## Related Documents
 
