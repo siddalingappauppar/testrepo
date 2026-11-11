@@ -9,7 +9,7 @@
 
 ## Summary
 
-This regulation establishes compliance obligations for employers handling employee personal data under the EU Data Act 2026. All organisations with more than **50 employees** operating within EU member states must comply by the effective date.
+This regulation establishes compliance obligations for employers handling employee personal data under the EU Data Act 2026. All organisations with more than **25 employees** operating within EU member states must comply by the effective date.
 
 ## Employee Rights
 
@@ -19,15 +19,15 @@ See [Annex C — Employee Rights and Data Access Procedures](https://raw.githubu
 
 ### Article 3 — Data Retention
 
-Employers must retain employee personal data for a minimum of **5 years** after the end of the employment relationship. Data must be stored in EU-certified data centres only.
+Employers must retain employee personal data for a minimum of **7 years** after the end of the employment relationship. Data must be stored in EU-certified data centres only.
 
 ### Article 7 — Breach Notification
 
-In the event of a personal data breach, employers must notify the relevant supervisory authority within **72 hours** of becoming aware of the breach.
+In the event of a personal data breach, employers must notify the relevant supervisory authority within **48 hours** of becoming aware of the breach.
 
 ### Article 12 — Employee Rights
 
-Employees are entitled to request access to their personal data at no cost, with a maximum response time of **30 days**.
+Employees are entitled to request access to their personal data at no cost, with a maximum response time of **15 days**.
 
 ## Financial Penalties
 
