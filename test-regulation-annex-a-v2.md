@@ -21,8 +21,8 @@ Approved data centres must hold at least one of the following certifications:
 
 Employers must maintain automated backups with the following parameters:
 
-- Backup frequency: at least every **24 hours**
-- Recovery Point Objective (RPO): maximum **2 hours**
+- Backup frequency: at least every **12 hours**
+- Recovery Point Objective (RPO): maximum **1 hour**
 - Recovery Time Objective (RTO): maximum **2 hours**
 - Backup retention period: minimum **5 years**
 
@@ -34,4 +34,4 @@ Employers must maintain automated backups with the following parameters:
 
 ## A.5 Audit Requirements
 
-An independent security audit must be performed annually by a certified third-party auditor. Audit reports must be submitted to the relevant supervisory authority within **60 days** of completion.
+An independent security audit must be performed annually by a certified third-party auditor. Audit reports must be submitted to the relevant supervisory authority within **45 days** of completion.
