@@ -7,7 +7,7 @@
 
 ## B.1 Annual Compliance Report
 
-All covered employers must submit an Annual Data Compliance Report by **28 February** of each year, covering the preceding calendar year.
+All covered employers must submit an Annual Data Compliance Report by **31 January** of each year, covering the preceding calendar year.
 
 The report must include:
 
@@ -22,7 +22,7 @@ The report must include:
 |---|---|
 | Internal detection | Immediately |
 | Supervisory authority notification | Within **72 hours** |
-| Affected employee notification | Within **5 days** |
+| Affected employee notification | Within **3 days** |
 | Full incident report submission | Within **30 days** |
 
 ## B.3 Employee Data Request Response Window
@@ -31,7 +31,7 @@ Employers must acknowledge employee data access requests within **5 business day
 
 ## B.4 Penalty Assessment Deadlines
 
-The supervisory authority will issue penalty notices within **90 days** of confirmed non-compliance. Employers have **30 days** from the notice date to appeal or pay the assessed penalty.
+The supervisory authority will issue penalty notices within **90 days** of confirmed non-compliance. Employers have **14 days** from the notice date to appeal or pay the assessed penalty.
 
 ## B.5 Next Review Date
 
