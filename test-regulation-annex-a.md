@@ -7,7 +7,7 @@
 
 ## A.1 Encryption Requirements
 
-All employee personal data at rest must be encrypted using a minimum of **AES-256** standard. Data in transit must use **TLS 1.3** or higher.
+All employee personal data at rest must be encrypted using a minimum of **AES-256** standard. Data in transit must use **TLS 1.3** or higher. End-to-end encryption is now mandatory for all cross-border data transfers.
 
 ## A.2 Data Centre Certification
 
@@ -21,10 +21,10 @@ Approved data centres must hold at least one of the following certifications:
 
 Employers must maintain automated backups with the following parameters:
 
-- Backup frequency: at least every **24 hours**
-- Recovery Point Objective (RPO): maximum **2 hours**
+- Backup frequency: at least every **12 hours**
+- Recovery Point Objective (RPO): maximum **1 hour**
 - Recovery Time Objective (RTO): maximum **2 hours**
-- Backup retention period: minimum **3 years**
+- Backup retention period: minimum **7 years**
 
 ## A.4 Access Controls
 
