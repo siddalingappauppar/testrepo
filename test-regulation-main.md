@@ -41,3 +41,4 @@ Non-compliance penalties are calculated as follows:
 The following annexes form part of this regulation and must be read in conjunction with the main text. All annexes were updated in March 2026:
 
 - [Annex B — Reporting Deadlines and Filing Windows](https://raw.githubusercontent.com/siddalingappauppar/testrepo/main/test-regulation-annex-b.md)
+- [EU Data Act — Implementation Guidelines](https://raw.githubusercontent.com/siddalingappauppar/testrepo/main/test-regulation-eu-data-act-guidelines.md)
